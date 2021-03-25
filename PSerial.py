@@ -98,6 +98,8 @@ class PSerial(asyncio.Protocol):
 
             # s = self.payload.getBytes()
 
+
+            #  Github push commint & test
             if counter > self.bflen :
                 counter = 0
             else:
