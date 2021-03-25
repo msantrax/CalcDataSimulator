@@ -100,6 +100,7 @@ class PSerial(asyncio.Protocol):
 
 
             #  Github push commint & test
+            
             if counter > self.bflen :
                 counter = 0
             else:
