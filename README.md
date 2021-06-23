@@ -1,2 +1,2 @@
-# Virna7
-Python Instrument Calc. Services &amp; Simulator
+# CalcDataSimulator
+Data Simulator & Mock Instrument to Python Instrument Calc. Services
